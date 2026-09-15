@@ -1,2 +1,3 @@
 rootProject.name = 'resource-management'
+include 'azure-function-examples'
 
